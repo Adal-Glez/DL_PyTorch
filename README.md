@@ -2,6 +2,8 @@
 
 This repo contains notebooks and related code for Udacity's Deep Learning with PyTorch lesson. This lesson appears in our [AI Programming with Python Nanodegree program](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
 
+I've solved the assignments for each task, I hope you find them usefull.
+
 * **Part 1:** Introduction to PyTorch and using tensors
 * **Part 2:** Building fully-connected neural networks with PyTorch
 * **Part 3:** How to train a fully-connected network with backpropagation on MNIST
